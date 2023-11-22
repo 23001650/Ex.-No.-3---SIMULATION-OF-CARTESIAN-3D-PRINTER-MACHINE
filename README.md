@@ -59,7 +59,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-![output](/Screenshot%202023-11-20%20144736.png)
+![output](/Screenshot%202023-11-22%20081508.png)
 
 ### Name: SUNIL KUMAR T 
 ### Register Number: 23001650
